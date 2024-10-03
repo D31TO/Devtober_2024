@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/d3mon/Documents/Uni Work/Game Jams/Devtober_2024/GameSmithsDevtober24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"C:/Users/d3mon/Documents/Uni Work/Game Jams/Devtober_2024/GameSmithsDevtober24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/d3mon/Documents/Uni Work/Game Jams/Devtober_2024/GameSmithsDevtober24/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/d3mon/Documents/Uni Work/Game Jams/Devtober_2024/GameSmithsDevtober24/Content/Mechanics/ReboundPad/BP_ReboundPad.uasset",
+				"C:/Users/d3mon/Documents/Uni Work/Game Jams/Devtober_2024/GameSmithsDevtober24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1I/246KAEF0BP91D6XPHHSVXK.uasset",
 				"E:/Uni/Year2/GameJams/Devtober_2024/GameSmithsDevtober24/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/Uni/Year2/GameJams/Devtober_2024/GameSmithsDevtober24/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"E:/Uni/Year2/GameJams/Devtober_2024/GameSmithsDevtober24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VX/A3S0F15XS2IXBYU7PKJPO2.uasset",
