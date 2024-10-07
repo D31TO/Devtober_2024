@@ -1,2 +1,5 @@
 #This should ignore our cooked folder
 Cooked/
+
+#This should make it so the saved folder isnt saved at all, this will make it so that the repository has a smaller size overall
+Saved/
